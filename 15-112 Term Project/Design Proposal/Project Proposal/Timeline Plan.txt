@@ -1,0 +1,10 @@
+Pathfinding algorithm + Maze generation: Apr 17
+
+User movement on the maze + Monster movement (done via Dijkstra’s): Apr 19
+
+Features: Switcheroo, special items, player + monster class: Apr 21
+
+Post MVP: Extension of Djikstra’s algo to A* to make monster catch up to the player faster, additional monsters spawned at different locations (player can change locations with any one of the monsters), better GUI: Apr 27
+
+
+

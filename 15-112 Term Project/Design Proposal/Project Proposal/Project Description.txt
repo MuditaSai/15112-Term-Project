@@ -1,0 +1,5 @@
+Switcheroo: A maze of confusion
+
+Traverse through each of the mazes (5 different mazes with increasing difficulty) while avoiding the monster (moves faster at higher levels). Special items are hidden throughout the grid and spawn randomly. Use these to heal, get damage protection and many more! 
+
+The goal: Complete the 5 mazes by avoiding the monster to receive the final prize: An escape out of the monster’s world and into the world you have always known: Earth!

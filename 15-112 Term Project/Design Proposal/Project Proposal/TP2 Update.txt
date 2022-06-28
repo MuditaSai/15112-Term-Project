@@ -1,0 +1,7 @@
+The grid/maze changes color
+
+Help button was added - if user presses "h", a path is drawn from their current location to the exit (which is at located at the bottom right).
+
+Food was implemented - if player makes contact with food, the food disappears
+
+

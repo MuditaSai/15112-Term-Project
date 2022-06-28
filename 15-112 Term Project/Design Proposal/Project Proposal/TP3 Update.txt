@@ -1,0 +1,9 @@
+These are the features present in the game (note: the 'switcheroo' is no longer implemented):
+
+- Five levels of mazes of increasing difficulty
+- Poisoned items appearing for a short amount of time
+- A path from the player's current location to the destination
+- Time limit
+- HP bar
+- AI path tracking enemy boss
+- Other monsters with a naive pathfinding algorithm

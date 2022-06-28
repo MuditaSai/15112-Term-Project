@@ -1,0 +1,14 @@
+Node Class - creates node object for each row, col
+
+Graph Class - creates graph object by looping through the nodes defined in the node object
+
+Maze Class - creates a maze using a specified maze-gen algorithm and the dimension of the board
+
+Sprites Class - creates the sprites of the player, monster and items; accessed by the player, monster
+and special item class.
+
+SFX file - audio files when the player, monster and special items interact in a certain way
+
+Player + Monster + Special Item Class
+
+

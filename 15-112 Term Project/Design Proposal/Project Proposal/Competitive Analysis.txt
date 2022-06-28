@@ -1,0 +1,6 @@
+
+Pacman, Mario, Pokemon,... There are an endless list of games with the primary premise as the bad guys chasing after the good guy. The hero escapes and occasionally attacks the bad guys, but overall a pretty boring and one-dimensional storyline. But what if you had the power to switch places with your opponent. Now with switcheroo, you would be placed into the location where your opponent once was while your opponent gets your previous position. Your primary goal is to still get away from the monster but use this feature to your advantage! Unfortunately, you don’t know when or how your powers activate since you switch randomly. Nevertheless, your goal, however, is to reach the end of the maze without dealing too much damage. Simply put, get to the exit while:
+
+- Avoiding the monster
+- Taking advantage of the 'switcheroo' (can corner the monster in an inescapable grid)
+- Solving the maze
