@@ -149,7 +149,6 @@ def listConnectedEdges(passages, rows, cols):
         countB += 1
         # Now, we are sure that a parent has been found!
 
-        # But wait, which parent has more weight? (see what I did there...)
         parentAweight = parent[parentA]
         parentBweight = parent[parentB]
         # comparing the magnitude (taking the abs since the parents have negative weight)
